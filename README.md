@@ -1,6 +1,6 @@
-# riot_simulation (model_version_1)
+# Model Violence Emergence in Protests (model VEP)
 
-This model was developed and implemented after the HAR 2024 submission. It corrects a few things on the transitions between states and how emotions are handled.
+This model was presented at the JFSMA 2025 conference.
 
 Folders and files:
 - includes: you'll find generic models there. Especially computer_model.gaml is a personal library for mathematical computations that all agents need.
